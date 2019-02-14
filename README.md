@@ -1,4 +1,3 @@
-# Card-Games
-Python scripts for playing popular card games
+# Card_Games_Projects
 
-All the scripts in this folder basically helps playing interactive card games. There are different operations which one might encounter while playing general card games.
+This folder consists of list of Python scripts for playing popular card games in a interactive fashion.
