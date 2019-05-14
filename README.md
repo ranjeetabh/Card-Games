@@ -2,7 +2,7 @@
 
 This folder consists of list of Python scripts for playing popular card games in a interactive fashion.
 
-=> Script card_game.py is a object-oriented programming version of playing with a deck of cards having different methods like:
+=> Script **card_game.py** is a object-oriented programming version of playing with a deck of cards having different methods like:
 
 deal - a method that returns the value of the card on top of the deck.  Once a card is dealt it cannot be dealt again until the deck is shuffled.
 
@@ -14,4 +14,4 @@ isOrdered - a method that returns True if the deck is in order and False if it i
 
 Order - a method that sorts the deck or puts the cards in order with the 2 of clubs beings lowest and the ace of spades being highest (while there is no real ranking of suits we’ll go with the standard poker/bridge ranking of clubs(lowest), diamonds, hearts, spades(highest).  We will also count the Ace as a high card and not a low card. The Ace of a particular suit should be the highest card when a suit is sorted (2 thru A). 
 
-=> Script acey_duecy.py is a object-oriented programming version of interactive card game Acey Duecy (https://en.wikipedia.org/wiki/Acey_Deucey_(card_game)).
+=> Script **acey_duecy.py** is a object-oriented programming version of interactive card game Acey Duecy (https://en.wikipedia.org/wiki/Acey_Deucey_(card_game)).
